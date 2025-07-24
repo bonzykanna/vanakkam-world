@@ -24,7 +24,7 @@ pipeline {
 
             steps {
 
-                git url: 'https://github.com/cubensquarets/vanakkam-world.git' // Replace with actual repo
+                git url: 'https://github.com/bonzykanna/vanakkam-world.git' // Replace with actual repo
 
             }
 
