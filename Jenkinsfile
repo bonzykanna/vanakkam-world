@@ -94,7 +94,7 @@ pipeline {
 
         always {
 
-            echo "✅ Pipeline Finished! yahoooooooooooooo!!!!!!!!!!!!!!!"
+            echo "✅ Pipeline Finished! yahoooooooooooooo!!!!!!!!!!!!!!! Super!!!!!!!!!!1"
 
         }
 
